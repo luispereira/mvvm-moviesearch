@@ -1,0 +1,23 @@
+
+x
+Happ/src/main/java/com/sample/mvvm/mvvmsample/feature/shared/Constants.kt,3/1/319c5b302d6e8c0a0b4cf29a1808f271801bb0dd
+É
+Sapp/src/main/java/com/sample/mvvm/mvvmsample/feature/shared/entities/MovieEntity.kt,4/8/48d650c3a0870fe09f1c4262b8a2b708fb5c1f3c
+è
+_app/src/main/java/com/sample/mvvm/mvvmsample/feature/networking/entities/UpcomingMovieResult.kt,9/f/9f55a0a335d56aadc2a3c7571dfe2d87f1c0f524
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+Ö
+Uapp/src/main/java/com/sample/mvvm/mvvmsample/feature/networking/helpers/APIService.kt,7/5/75ea4f1635a21573bb740a12cb942b60663fbfa6
+
+Oapp/src/main/java/com/sample/mvvm/mvvmsample/feature/networking/NetworkModel.kt,f/5/f5981206534a54c278071639e72953b214f57856
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+Ñ
+Tapp/src/main/java/com/sample/mvvm/mvvmsample/feature/networking/helpers/ApiClient.kt,d/a/da929f442c524b3766af4cdf08b3e61d3bce5b7a
+Ñ
+Tapp/src/main/java/com/sample/mvvm/mvvmsample/feature/movies/adapter/MoviesAdaptor.kt,f/0/f024890c2fda11dd5cf590ec0f823d91eb65e29e
+|
+Lapp/src/main/java/com/sample/mvvm/mvvmsample/feature/movies/MovieActivity.kt,f/0/f0db868d2e0a66b7481bf4de1cefd48e5c02878b
+}
+Mapp/src/main/java/com/sample/mvvm/mvvmsample/feature/movies/MovieViewModel.kt,4/2/429a9f47978e8483c2926f0857733bc851d33ff9
